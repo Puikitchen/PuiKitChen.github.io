@@ -4,13 +4,14 @@ var typed = new Typed(".text", {
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
-    loop:true
+    loop:true,
+    cursorChar: '|'
 });
 
 var typed = new Typed(".name", {
     strings: ["Pui Kit Chen"],
-    typeSpeed:100
-
+    typeSpeed:100,
+    cursorChar: '|'
 });
 
 const toTop = document.querySelector(".top");
