@@ -1135,11 +1135,10 @@ footer::before {
     .img{
         max-width: 400px;
         position: relative;
-        left: -10%;
+        left: 20%;
         top: 2%;
         padding-bottom: 30px;
         padding-left: 0;
-        margin-left: 0;
     }
     .btn-box:hover {
         box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
@@ -1302,12 +1301,10 @@ footer::before {
     .img{
         max-width: 300px;
         position: relative;
-        left: -10%;
+        left: 15%;
         top: 2%;
         padding-bottom: 30px;
         padding-left: 0;
-        margin-left: 0;
-        margin-right: 0;
     }
     
     /*about*/
